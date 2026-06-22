@@ -1,0 +1,13 @@
+{
+  "InstanceId": "Raptor_Hollows",
+  "Description": {
+    "ThemeColor": "#dc632a",
+    "SplashImage": "DefaultArtwork.png",
+    "DisplayName": "server.portals.raptor_hollows",
+    "FlavorText": "server.portals.raptor_hollows.description"
+  },
+  "VoidInvasionEnabled": false,
+  "Spawn": {
+    "SpawnReturnPortal": false
+  }
+}

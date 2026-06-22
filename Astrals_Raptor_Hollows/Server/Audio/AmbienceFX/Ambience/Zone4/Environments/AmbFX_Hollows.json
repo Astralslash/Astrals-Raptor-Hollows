@@ -1,0 +1,28 @@
+{
+  "Conditions": {
+    "EnvironmentIds": [
+      "Env_Raptor_Hollows"
+    ],
+    "Altitude": {
+      "Min": 135,
+      "Max": 250
+    }
+  },
+  "AmbientBed": {
+    "Track": "Sounds/Environments/Zone4/Jungle/Zone4_Jungle_Day_Loop_Stereo_01.ogg",
+    "Volume": 6.92
+  },
+  "Sounds": [
+    {
+      "SoundEventId": "SFX_Emit_Wind_Gusts",
+      "Frequency": {
+        "Max": 8,
+        "Min": 2
+      },
+      "Radius": {
+        "Min": 2,
+        "Max": 8
+      }
+    }
+  ]
+}

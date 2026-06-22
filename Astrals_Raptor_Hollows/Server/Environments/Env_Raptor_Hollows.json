@@ -1,0 +1,154 @@
+{
+  "WeatherForecasts": {
+    "0": [
+      {
+        "WeatherId": "Raptor_Clear",
+        "Weight": 10
+      }
+    ],
+    "1": [
+      {
+        "WeatherId": "Raptor_Clear",
+        "Weight": 10
+      }
+    ],
+    "2": [
+      {
+        "WeatherId": "Raptor_Clear",
+        "Weight": 10
+      }
+    ],
+    "3": [
+      {
+        "WeatherId": "Raptor_Clear",
+        "Weight": 10
+      }
+    ],
+    "4": [
+      {
+        "WeatherId": "Raptor_Clear",
+        "Weight": 10
+      }
+    ],
+    "5": [
+      {
+        "WeatherId": "Raptor_Clear",
+        "Weight": 10
+      }
+    ],
+    "6": [
+      {
+        "WeatherId": "Raptor_Clear",
+        "Weight": 10
+      }
+    ],
+    "7": [
+      {
+        "WeatherId": "Raptor_Clear",
+        "Weight": 10
+      }
+    ],
+    "8": [
+      {
+        "WeatherId": "Raptor_Clear",
+        "Weight": 10
+      }
+    ],
+    "9": [
+      {
+        "WeatherId": "Raptor_Clear",
+        "Weight": 10
+      }
+    ],
+    "10": [
+      {
+        "WeatherId": "Raptor_Clear",
+        "Weight": 10
+      }
+    ],
+    "11": [
+      {
+        "WeatherId": "Raptor_Clear",
+        "Weight": 10
+      }
+    ],
+    "12": [
+      {
+        "WeatherId": "Raptor_Clear",
+        "Weight": 10
+      }
+    ],
+    "13": [
+      {
+        "WeatherId": "Raptor_Clear",
+        "Weight": 10
+      }
+    ],
+    "14": [
+      {
+        "WeatherId": "Raptor_Clear",
+        "Weight": 10
+      }
+    ],
+    "15": [
+      {
+        "WeatherId": "Raptor_Clear",
+        "Weight": 10
+      }
+    ],
+    "16": [
+      {
+        "WeatherId": "Raptor_Clear",
+        "Weight": 10
+      }
+    ],
+    "17": [
+      {
+        "WeatherId": "Raptor_Clear",
+        "Weight": 10
+      }
+    ],
+    "18": [
+      {
+        "WeatherId": "Raptor_Clear",
+        "Weight": 10
+      }
+    ],
+    "19": [
+      {
+        "WeatherId": "Raptor_Clear",
+        "Weight": 10
+      }
+    ],
+    "20": [
+      {
+        "WeatherId": "Raptor_Clear",
+        "Weight": 10
+      }
+    ],
+    "21": [
+      {
+        "WeatherId": "Raptor_Clear",
+        "Weight": 10
+      }
+    ],
+    "22": [
+      {
+        "WeatherId": "Raptor_Clear",
+        "Weight": 10
+      }
+    ],
+    "23": [
+      {
+        "WeatherId": "Raptor_Clear",
+        "Weight": 10
+      }
+    ]
+  },
+  "WeatherForecastSeed": "rawrrr",
+  "WaterTint": "#60c8b2",
+  "SpawnDensity": 0.9,
+  "Tags": {
+    "Raptor_Hollows": []
+  }
+}

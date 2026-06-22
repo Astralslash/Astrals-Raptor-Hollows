@@ -1,0 +1,4 @@
+items.PortalKey_Raptor_Hollows.name = Fragment: ??? - Raptor Hollows
+items.PortalKey_Raptor_Hollows.description =  <msg key="server.items.PortalKey.description"/>\n\n<i>Ancient dinosaur ridden lands.</i>
+server.portals.raptor_hollows = Raptor Hollows
+server.portals.raptor_hollows.description = Ancient dinosaur ridden lands.\n\\n\<msg key="server.portals.incomplete.description"/>

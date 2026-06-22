@@ -1,0 +1,40 @@
+{
+  "Type": "NoiseRange",
+  "Biomes": [
+    {
+      "Min": 0.8,
+      "Max": 1,
+      "Biome": "Landing"
+    },
+    {
+      "Biome": "Hollows",
+      "Max": 0.8
+    }
+  ],
+  "DefaultBiome": "Hollows",
+  "DefaultTransitionDistance": 32,
+  "MaxBiomeEdgeDistance": 32,
+  "Framework": [
+    {
+      "Type": "DecimalConstants",
+      "Entries": [
+        {
+          "Name": "Base",
+          "Value": 100
+        },
+        {
+          "Name": "Water",
+          "Value": 100
+        },
+        {
+          "Name": "Bedrock",
+          "Value": 0
+        }
+      ]
+    }
+  ],
+  "Density": {
+    "Type": "Imported",
+    "Parent": "Map_Hollows"
+  }
+}

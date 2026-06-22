@@ -1,0 +1,38 @@
+{
+  "NPCs": [
+    {
+      "Weight": 8,
+      "SpawnBlockSet": "Soil",
+      "Id": "Raptor_Cave",
+      "Flock": "Group_Medium"
+    },
+    {
+      "Id": "Archaeopteryx",
+      "Weight": 6,
+      "SpawnBlockSet": "Soil",
+      "Flock": "Group_Tiny"
+    },
+    {
+      "Id": "Rex_Cave",
+      "Weight": 3,
+      "SpawnBlockSet": "Soil"
+    },
+    {
+      "Id": "Tiger_Sabertooth",
+      "Weight": 3,
+      "SpawnBlockSet": "Soil"
+    },
+    {
+      "Id": "Trillodon",
+      "Weight": 2,
+      "Flock": "Group_Large"
+    }
+  ],
+  "DayTimeRange": [
+    0,
+    24
+  ],
+  "Environments": [
+    "Env_Raptor_Hollows"
+  ]
+}

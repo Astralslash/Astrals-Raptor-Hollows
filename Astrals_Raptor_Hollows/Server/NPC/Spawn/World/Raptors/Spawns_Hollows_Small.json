@@ -1,0 +1,23 @@
+{
+  "Environments": [
+    "Env_Raptor_Hollows"
+  ],
+  "NPCs": [
+    {
+      "Weight": 8,
+      "SpawnBlockSet": "Soil",
+      "Id": "Skrill",
+      "Flock": "Parent_And_Young_75_25"
+    },
+    {
+      "Id": "Gecko",
+      "Weight": 2,
+      "SpawnBlockSet": "Rock",
+      "Flock": "Group_Tiny"
+    }
+  ],
+  "DayTimeRange": [
+    0,
+    24
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "Group": "Astralslash",
+  "Name": "Astrals Raptor Hollows",
+  "Version": "1.0.0",
+  "Description": "For the June 2026  Hytale Modjam",
+  "Authors": [],
+  "Website": "https://x.com/AstralSlash",
+  "ServerVersion": ">=0.5.4 <0.6.0",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}

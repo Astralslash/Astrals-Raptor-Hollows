@@ -1,0 +1,27 @@
+{
+  "Conditions": {
+    "EnvironmentIds": [
+      "Env_Raptor_Hollows"
+    ],
+    "Altitude": {
+      "Max": 145
+    }
+  },
+  "AmbientBed": {
+    "Track": "Sounds/Environments/Global/Cave/Cave_Volcanic/Cave_Volcanic_Stereo_LOOP.ogg",
+    "Volume": -1
+  },
+  "Sounds": [
+    {
+      "Radius": {
+        "Min": 2,
+        "Max": 4
+      },
+      "Frequency": {
+        "Min": 1,
+        "Max": 5
+      },
+      "SoundEventId": "SFX_Env_Emit_Fluid_Lava"
+    }
+  ]
+}
